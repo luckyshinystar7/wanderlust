@@ -3,7 +3,8 @@
   <h2>The Ultimate Travel Blog 🌍✈️ for You </h2>
 </div>
 
-![Preview Image]![image](https://github.com/luckyshinystar7/wanderlust/assets/172367046/be0a57a1-65c5-41fd-8fa1-8974c9345a95)
+![Preview Image]!![image](https://github.com/luckyshinystar7/wanderlust/assets/172367046/0e169f52-c10f-4fd9-94d9-f711d2fb4c54)
+
 
 
 <hr>
